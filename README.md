@@ -97,7 +97,6 @@ C# • ASP.NET MVC • Object-Oriented Programming • Role-based logic • Data
 </br>
 
 <h3>
-</h3>
 <a href="https://github.com/milpei/FlappyBirdRecreation">
   🔹 Flappy Bird Recreation (C# Game Project)
 </a>
